@@ -1,12 +1,10 @@
-Sample Module Repository
+About This Project
 ========================
 
-This simple project is an example repo for Python projects. Taken from https://github.com/kennethreitz/samplemod
+A very rusty Neural Net implementation using python numpy
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+Relevant Links
+===============
 
----------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
-
-✨🍰✨
+* Michael Nielsen's Deep Learning Book : http://neuralnetworksanddeeplearning.com
+* Andrew Ng's Lectures on Neural Net and Backprop: https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
